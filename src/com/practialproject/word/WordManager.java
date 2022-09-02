@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class WordManager {
     Scanner s = new Scanner(System.in);
+    WordCRUD wordCRUD;
+
+    WordManager(){
+        wordCRUD = new WordCRUD(s);
+    }
 
     private int selectMenu() {
         System.out.print("***** 영단어 마스터 *****\n"
@@ -53,7 +58,7 @@ public class WordManager {
             switch (menu){
                 case 1: //list
                     break;
-                case 4: //add
+                case 4: wordCRUD.addWord();
                     break;
                 default: System.out.println("out of range. try again");
                     break;
