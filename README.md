@@ -2,7 +2,7 @@
 
 ### 설치한 IDE의 이름과 실행 화면
 --intelliJ IDEA
-<img src='screenshots/화면 캡처 2022-09-02 144836.jpg'>
+<img src='screenshots/화면 캡처 2022-09-02 144836.jpg' width = '300'>
 
 ### 실행 화면
 
