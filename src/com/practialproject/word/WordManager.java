@@ -53,6 +53,7 @@ public class WordManager {
         while (true){
             int menu = selectMenu();
             if(menu == 0){
+                System.out.println("* 단어장 종료 *");
                 break;
             }
             switch (menu){
