@@ -1,13 +1,18 @@
 # EnglishDictionary_CRUD
 
-### 설치한 IDE의 이름과 실행 화면
+### 설치 IDE
 --intelliJ IDEA
-<img src='screenshots/화면 캡처 2022-09-02 144836.jpg' width = '300'>
 
 ### 실행 화면
 
-###### [4. 단어추가]
+###### 메뉴 선택
+<img src='screenshots/selectMenu.jpg' width = '250'>
 
-###### [1. 모든단어보기]
+###### [1. 모든 단어 보기]
+<img src='screenshots/listVoca.jpg' width = '400'>
+
+###### [4. 단어 추가]
+<img src='screenshots/addVoca.jpg' width = '400'>
 
 ###### [0. 나가기]
+<img src='screenshots/exit.jpg' width = '400'>
