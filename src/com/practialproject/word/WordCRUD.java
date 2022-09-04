@@ -1,7 +1,6 @@
 package com.practialproject.word;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class WordCRUD implements ICRUD {
@@ -30,8 +29,7 @@ public class WordCRUD implements ICRUD {
     public void addWord(){
         Word one = (Word)add();
         list.add(one);
-        System.out.println("* 새 단어가 단어장에 추가되었습니다. *");
-        System.out.println("level: "+one.getLevel() + "word: " + one.getWord() + "mean: "+ one.getMeaning());
+        System.out.println("* 새 단어가 단어장에 추가되었습니다. *\n");
     }
 
     @Override
@@ -47,5 +45,14 @@ public class WordCRUD implements ICRUD {
     @Override
     public void selectOne(int id) {
 
+    }
+
+    public void listAll() {
+        System.out.println("____________________________");
+        for(int i=0; i< list.size(); i++) {
+            System.out.print((i+1) + " ");
+            System.out.println(list.get(i).toString());
+        }
+        System.out.println("____________________________\n");
     }
 }

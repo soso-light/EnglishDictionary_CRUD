@@ -56,7 +56,7 @@ public class WordManager {
                 break;
             }
             switch (menu){
-                case 1: //list
+                case 1: wordCRUD.listAll();
                     break;
                 case 4: wordCRUD.addWord();
                     break;
