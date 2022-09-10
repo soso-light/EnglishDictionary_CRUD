@@ -108,7 +108,17 @@ public class WordCRUD implements ICRUD {
     ** 단어가 삭제되었습니다 **
      */
     public void deleteItem(){
+        System.out.print(">>> 삭제할 단어 검색 : ");
+        String keyword = s.next();
+        ArrayList<Integer> idlist = this.listAll(keyword);
+        System.out.print(">>> 삭제할 번호 선택 : ");
+        int id = s.nextInt();
+        s.nextLine();
 
+        System.out.print("\t정말로 삭제하시겠습니까(y/n)? ");
+        String meaning = s.nextLine();
+
+        System.out.println("** 단어가 삭제되었습니다 ** \n");
     }
 
 }
