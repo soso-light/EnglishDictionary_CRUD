@@ -21,7 +21,7 @@
 <img src='screenshots/addVoca.jpg' width = '400'>
 
 #### [5. 단어 수정]
-<img src=''>
+<img src='screenshots/updateVoca.jpg' width = '300'>
 
 #### [6. 단어 삭제]
 <img src='screenshots/deleteVoca.jpg' width = '300'>
