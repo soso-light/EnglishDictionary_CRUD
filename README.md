@@ -30,7 +30,7 @@
 <img src='screenshots/deleteVoca.jpg' width = '300'>
 
 #### [7. 단어 저장]
-<img src=''>
+<img src='screenshots/saveFile.jpg' width = '250'>
 
 #### [0. 나가기]
-<img src='screenshots/exit.jpg' width = '400'>
+<img src='screenshots/exit.jpg' width = '350'>
