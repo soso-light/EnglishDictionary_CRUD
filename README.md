@@ -1,18 +1,33 @@
 # EnglishDictionary_CRUD
 
-### 설치 IDE
+## 설치 IDE
 --intelliJ IDEA
 
-### 실행 화면
+## 실행 화면
 
-###### 메뉴 선택
+#### 메뉴 선택
 <img src='screenshots/selectMenu.jpg' width = '250'>
 
-###### [1. 모든 단어 보기]
+#### [1. 모든 단어 보기]
 <img src='screenshots/listVoca.jpg' width = '400'>
 
-###### [4. 단어 추가]
+#### [2. 수준별 단어 보기]
+<img src''>
+
+#### [3. 단어 검색]
+<img src''>
+
+#### [4. 단어 추가]
 <img src='screenshots/addVoca.jpg' width = '400'>
 
-###### [0. 나가기]
+#### [5. 단어 수정]
+<img src''>
+
+#### [6. 단어 삭제]
+<img src''>
+
+#### [7. 단어 저장]
+<img src''>
+
+#### [0. 나가기]
 <img src='screenshots/exit.jpg' width = '400'>
