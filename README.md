@@ -15,7 +15,7 @@
 <img src='screenshots/listVoca.jpg' width = '400'>
 
 #### [2. 수준별 단어 보기]
-<img src=''>
+<img src='screenshots/searchLevel.jpg' width = '400'>
 
 #### [3. 단어 검색]
 <img src=''>
