@@ -61,7 +61,7 @@ public class WordManager {
                     break;
                 case 4: wordCRUD.addWord();
                     break;
-                case 5: //wordCRUD.updateItem();
+                case 5: wordCRUD.updateItem();
                     break;
                 case 6: //wordCRUD.deleteItem();
                     break;
