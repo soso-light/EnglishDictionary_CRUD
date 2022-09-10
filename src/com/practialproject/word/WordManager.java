@@ -61,7 +61,11 @@ public class WordManager {
                     break;
                 case 4: wordCRUD.addWord();
                     break;
-                default: System.out.println("out of range. try again");
+                case 5: //wordCRUD.updateItem();
+                    break;
+                case 6: //wordCRUD.deleteItem();
+                    break;
+                default: System.out.println("!--!-- 범위를 벗어났습니다. 다시 입력하십시오. --!--!");
                     break;
             }
         }
