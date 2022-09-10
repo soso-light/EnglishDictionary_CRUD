@@ -6,6 +6,9 @@
 ## 실행 화면
 
 #### 메뉴 선택
+(load file)<br/>
+<img src='screenshots/loadFile.jpg' width = '250'>
+<br/>
 <img src='screenshots/selectMenu.jpg' width = '250'>
 
 #### [1. 모든 단어 보기]
