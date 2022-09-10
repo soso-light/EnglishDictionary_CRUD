@@ -18,7 +18,7 @@
 <img src='screenshots/searchLevel.jpg' width = '400'>
 
 #### [3. 단어 검색]
-<img src=''>
+<img src='screenshots/searchWord.jpg' width = '400'>
 
 #### [4. 단어 추가]
 <img src='screenshots/addVoca.jpg' width = '400'>
@@ -27,7 +27,7 @@
 <img src='screenshots/updateVoca.jpg' width = '300'>
 
 #### [6. 단어 삭제]
-<img src='screenshots/deleteVoca.jpg' width = '300'>
+<img src='screenshots/deleteVoca.jpg' width = '320'>
 
 #### [7. 단어 저장]
 <img src='screenshots/saveFile.jpg' width = '250'>
