@@ -158,7 +158,7 @@ public class WordCRUD implements ICRUD {
                 count++;
             }
             br.close();
-            System.out.println("* "+ String.valueOf(count+1) +"개 데이터 로드 완료 *");
+            System.out.println("* "+ String.valueOf(count) +"개 데이터 로드 완료 *");
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
