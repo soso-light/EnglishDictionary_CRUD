@@ -12,7 +12,7 @@
 <img src='screenshots/selectMenu.jpg' width = '250'>
 
 #### [1. 모든 단어 보기]
-<img src='screenshots/listVoca.jpg' width = '400'>
+<img src='' width = '400'>
 
 #### [2. 수준별 단어 보기]
 <img src='screenshots/searchLevel.jpg' width = '400'>
