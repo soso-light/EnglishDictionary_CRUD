@@ -37,3 +37,6 @@
 
 #### 파일 내용
 <img src='https://github.com/soso-light/EnglishDictionary_CRUD/blob/ae460f21444b9b95512ad902f944cbc371545095/screenshots/vocaTxt.jpg' width = '350'>
+
+#### 파일 위치(Voca.txt)
+<img src='https://github.com/soso-light/EnglishDictionary_CRUD/blob/07c2fb08282143eece3c0b551f24cddfdda22d75/screenshots/saveLocation.jpg' width = '200'>
